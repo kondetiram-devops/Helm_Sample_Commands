@@ -91,4 +91,3 @@ Helm rollback <release-name> <revision-number>
 
 
 
-![image](https://github.com/Pavan-1997/Helm_Sample_Commands/assets/32020205/8fbf7b04-8c1e-4ecf-9519-45f9485e0ffa)
